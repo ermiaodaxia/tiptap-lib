@@ -2,7 +2,12 @@
   "name": "tiptap-lib",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib/element-tiptap.es.js",
+  "main": "./lib/element-tiptap.umd.js",
+  "module": "./lib/element-tiptap.es.js",
+  "files": [
+    "lib/*"
+  ],
+  "types": "./lib/index.d.ts",
   "author": "sweet.zhang",
   "license": "ISC"
 }
