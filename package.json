@@ -1,0 +1,8 @@
+{
+  "name": "tiptap-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/element-tiptap.es.js",
+  "author": "sweet.zhang",
+  "license": "ISC"
+}
